@@ -27,3 +27,7 @@ They have strong suction abilities to capture squid and fish.
 Some whales swim in a tight circle, kicking up mud from the seafloor to trap fish in a confined space before gulping them down.
 6. Wave-Washing (Orcas in Antarctica)
 Orcas in Antarctica work in groups to generate waves, washing seals off ice floes and into the water, making them easier to catch
+
+In first attempt, I worked on Bubble Net Feeding but the spiral behaviour is not correct or at some point something is not working. I have to check it !
+
+![OceanFun_RL](bubble_net_simulation.gif)
