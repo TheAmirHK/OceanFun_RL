@@ -7,7 +7,7 @@ The whales then lunge through the bubble cloud with their mouths wide open to sc
 
 ![OceanFun_RL](bubble_net_simulation1.gif)
 
-**The seconds attempt**, well it's working now :) 
+**The second attempt**, well it's working now :) 
 I had to change the behaviours as follows:
   - Leader whale moves in a spiral around the fish cluster while releasing bubbles.
   - Bubbles push the fish toward the center.
