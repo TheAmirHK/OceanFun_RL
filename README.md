@@ -28,10 +28,11 @@ Some whales swim in a tight circle, kicking up mud from the seafloor to trap fis
 6. Wave-Washing (Orcas in Antarctica)
 Orcas in Antarctica work in groups to generate waves, washing seals off ice floes and into the water, making them easier to catch
 
-In first attempt, I worked on Bubble Net Feeding but the spiral behaviour is not correct or at some point something is not working. I have to check it !
+**In first attempt**, I worked on Bubble Net Feeding but the spiral behaviour is not correct or at some point something is not working. I have to check it !
+
 ![OceanFun_RL](bubble_net_simulation1.gif)
 
-The seconds attempt, well it's working now :) 
+**The seconds attempt**, well it's working now :) 
 I had to change the behaviours as follows:
   - Leader whale moves in a spiral around the fish cluster while releasing bubbles.
   - Bubbles push the fish toward the center.
