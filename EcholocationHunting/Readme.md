@@ -13,4 +13,4 @@ Then, based on my understanding of whales and their behavior, I developed the re
   -  Third attempt (last picture): So, when there is no more fish echolate again and turn toward them. And, well, it's working… at least based on my understanding!
 
 
-![OceanFun_RL](echo-test-1.gif) ![OceanFun_RL](echo-test-3.gif)
+![OceanFun_RL](echo-test-1.gif) ![OceanFun_RL](echo-test-2.gif) ![OceanFun_RL](echo-test-3.gif)
