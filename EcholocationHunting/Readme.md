@@ -11,6 +11,7 @@ Then, based on my understanding of whales and their behavior, I developed the re
   -  First attempt (first picture): The whale couldn't detect the fish school. Echolocation failed.
   -  Second attempt (second picture): Echolocation works now and whales move toward them. But when they reach the end, they don't echolate anymore. If no more fish are detected, it turns randomly and echolocates again.
   -  Third attempt (last picture): So, when there is no more fish echolate again and turn toward them. And, well, it's working… at least based on my understanding!
+  -  And lastly, now that it's working, let's challenge the whale and show them that the fish fear you and can run—may the fastest one win! 
 
 
-![OceanFun_RL](echo-test-1.gif) ![OceanFun_RL](echo-test-2.gif) ![OceanFun_RL](echo-test-3.gif)
+![OceanFun_RL](echo-test-1.gif) ![OceanFun_RL](echo-test-2.gif) ![OceanFun_RL](echo-test-3.gif) ![OceanFun_RL](echo-test-4.gif)
