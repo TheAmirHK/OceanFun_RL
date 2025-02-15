@@ -1,6 +1,7 @@
 In the first try I would like to mimic Bubble Net Feeding (Humpback Whales).
 Humpback whales work together to trap schools of fish (like herring) by blowing bubbles in a spiral pattern underwater.
-This creates a "net" that confuses and concentrates the fish.
+This creates a "net" that confuses and concentrates the fish. My first observation and draft out of this behaviour was like this:
+![OceanFun_RL](first_note.jpg)
 The whales then lunge through the bubble cloud with their mouths wide open to scoop up the prey.
 
 [![Watch the video](https://img.youtube.com/vi/JNhldKgPRg0&ab_channel=UniversityofHawai%E2%80%98iNews/0.jpg)](https://www.youtube.com/watch?v=JNhldKgPRg0&ab_channel=UniversityofHawai%E2%80%98iNews)
