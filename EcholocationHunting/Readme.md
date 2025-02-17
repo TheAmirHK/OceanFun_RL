@@ -6,6 +6,8 @@ The time it takes for these echoes to return helps the whale determine the dista
 3) **Echo Reception**: The returning echoes are received primarily through the whale’s lower jaw, which contains a fat-filled channel that transmits vibrations to the middle ear.
 The whale’s brain processes these signals to determine the size, shape, distance, speed, and even material composition of the object.
 
+  ![OceanFun_RL](Echolocation.gif)
+
 Then, based on my understanding of whales and their behavior, I developed the reinforcement learning model.
 
   -  *First attempt (first picture)*: The whale couldn't detect the fish school. Echolocation failed.
