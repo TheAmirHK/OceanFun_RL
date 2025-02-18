@@ -16,6 +16,6 @@ I had to change the behaviours as follows:
   - Other whales follow the leader but position themselves around the fish to create a trap.
   - Once fish are grouped in the center, other whales stay positioned around them to catch them.
 
-![OceanFun_RL](Results/bubble_net_simulation1.gif) ![OceanFun_RL](Results/bubble_net_simulation2.gif)  ![OceanFun_RL](Results/bubble_net_simulation4_3d.gif)
+![OceanFun_RL](Results/bubble_net_simulation1.gif) ![OceanFun_RL](Results/bubble_net_simulation2.gif) ![OceanFun_RL](Results/bubble_net_simulation4_3d.gif)
 
 For a future work, I'm more thinking two challenging points: first, the leader whale learns the spiral pattern rather than a pre-defined pattern. And second, the fish learns to fear :), so the learning would be more realistic.
