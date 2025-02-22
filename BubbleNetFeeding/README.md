@@ -15,9 +15,9 @@ I had to change the behaviours as follows:
   - Bubbles push the fish toward the center.
   - Other whales follow the leader but position themselves around the fish to create a trap.
   - Once fish are grouped in the center, other whales stay positioned around them to catch them.
-- **The thrid attempt**, i worked on a 3D environment and more realistic social behaviour of the whales. So for, I like it.
-
+- **The thrid attempt**, i worked on a 3D environment and more realistic social behaviour of the whales. So for, I like it.By the way, I noticed in more a natural behaviour, other whales also do the spiral pattern.
+- God, it's finally done. That was hurtful to teach the whales learn hunting when fish are circled enough that provide enough food for them. but it's done. Also, fish fear of then so whales have to not be so close not so far. 
+  
 ![OceanFun_RL](Results/bubble_net_simulation1.gif) ![OceanFun_RL](Results/bubble_net_simulation3.gif) 
 ![OceanFun_RL](Results/bubble_net_simulation2.gif) ![OceanFun_RL](Results/bubble_net_simulation4_3d.gif)
-
-For a future work, I'm more thinking two challenging points: first, the leader whale learns the spiral pattern rather than a pre-defined pattern. And second, the fish learns to fear :), so the learning would be more realistic.
+![OceanFun_RL](Results/bubble_net_simulation5_3d.gif)
